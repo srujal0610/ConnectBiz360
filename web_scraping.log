@@ -1,0 +1,349 @@
+2023-10-12 09:36:41,986 - INFO - Opening the URL: https://finance.yahoo.com/quote/HSY/history?period1=1664957336&period2=1696493336&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-12 09:37:06,709 - INFO - Dynamic content loaded
+2023-10-12 09:37:07,253 - INFO - Data written to CSV file: HSY1.csv
+2023-10-12 09:37:07,269 - INFO - Data in the CSV file has been inverted.
+2023-10-12 09:37:09,444 - INFO - Web driver closed
+2023-10-17 09:31:41,583 - INFO - Opening the URL: https://finance.yahoo.com/quote/JPM/history?period1=1664958115&period2=1696494115&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-17 09:32:09,406 - INFO - Dynamic content loaded
+2023-10-17 09:32:09,879 - INFO - Data written to CSV file: JPM1.csv
+2023-10-17 09:32:09,895 - INFO - Data in the CSV file has been inverted.
+2023-10-17 09:32:12,073 - INFO - Web driver closed
+2023-10-17 09:34:07,955 - INFO - Opening the URL: https://finance.yahoo.com/quote/NVDA/history?period1=1664958502&period2=1696494502&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-17 09:34:35,983 - INFO - Dynamic content loaded
+2023-10-17 09:34:36,461 - INFO - Data written to CSV file: NVDA1.csv
+2023-10-17 09:34:36,473 - INFO - Data in the CSV file has been inverted.
+2023-10-17 09:34:38,649 - INFO - Web driver closed
+2023-10-17 09:35:36,983 - INFO - Opening the URL: https://finance.yahoo.com/quote/RVPH/history?period1=1664958749&period2=1696494749&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-17 09:35:45,024 - INFO - Dynamic content loaded
+2023-10-17 09:35:45,499 - INFO - Data written to CSV file: RVPH1.csv
+2023-10-17 09:35:45,523 - INFO - Data in the CSV file has been inverted.
+2023-10-17 09:35:47,768 - INFO - Web driver closed
+2023-10-17 09:37:18,426 - INFO - Opening the URL: https://finance.yahoo.com/quote/HYMTF/history?period1=1664958894&period2=1696494894&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-17 09:37:46,054 - INFO - Dynamic content loaded
+2023-10-17 09:37:46,488 - INFO - Data written to CSV file: HYMTF1.csv
+2023-10-17 09:37:46,491 - INFO - Data in the CSV file has been inverted.
+2023-10-17 09:37:48,651 - INFO - Web driver closed
+2023-10-17 09:50:50,346 - INFO - Opening the URL: https://finance.yahoo.com/quote/HSY/history?period1=1665946181&period2=1697482181&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-17 09:51:18,864 - INFO - Dynamic content loaded
+2023-10-17 09:51:19,317 - INFO - Data written to CSV file: HSY1.csv
+2023-10-17 09:51:19,326 - INFO - Data in the CSV file has been inverted.
+2023-10-17 09:51:21,570 - INFO - Web driver closed
+2023-10-25 22:46:45,601 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666718205&period2=1698254205&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:46:45,601 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666718205&period2=1698254205&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:46:57,234 - INFO - Dynamic content loaded
+2023-10-25 22:46:57,563 - INFO - Data written to CSV file: HSY1.csv
+2023-10-25 22:46:57,574 - INFO - Data in the CSV file has been inverted.
+2023-10-25 22:46:59,639 - INFO - Web driver closed
+2023-10-25 22:50:54,675 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666718454&period2=1698254454&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:50:54,675 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666718454&period2=1698254454&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:51:00,407 - INFO - Dynamic content loaded
+2023-10-25 22:51:00,695 - INFO - Data written to CSV file: HSY1.csv
+2023-10-25 22:51:00,714 - INFO - Data in the CSV file has been inverted.
+2023-10-25 22:51:02,789 - INFO - Web driver closed
+2023-10-25 22:51:06,925 - INFO - 127.0.0.1 - - [25/Oct/2023 22:51:06] "[35m[1mGET /success HTTP/1.1[0m" 500 -
+2023-10-25 22:51:07,109 - INFO - 127.0.0.1 - - [25/Oct/2023 22:51:07] "GET /success?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-10-25 22:51:07,125 - INFO - 127.0.0.1 - - [25/Oct/2023 22:51:07] "GET /success?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-10-25 22:51:07,179 - INFO - 127.0.0.1 - - [25/Oct/2023 22:51:07] "GET /success?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-10-25 22:51:07,194 - INFO - 127.0.0.1 - - [25/Oct/2023 22:51:07] "[36mGET /success?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-10-25 22:52:22,786 - INFO -  * Detected change in 'd:\\PYthon PRoject\\p1.py', reloading
+2023-10-25 22:53:10,588 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666718590&period2=1698254590&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:53:10,588 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666718590&period2=1698254590&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 22:53:42,309 - INFO - Dynamic content loaded
+2023-10-25 22:53:42,481 - INFO - Data written to CSV file: HSY1.csv
+2023-10-25 22:53:42,503 - INFO - Data in the CSV file has been inverted.
+2023-10-25 22:53:44,582 - INFO - Web driver closed
+2023-10-25 22:53:48,665 - INFO - 127.0.0.1 - - [25/Oct/2023 22:53:48] "GET /success HTTP/1.1" 200 -
+2023-10-25 22:53:48,690 - INFO - 127.0.0.1 - - [25/Oct/2023 22:53:48] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 22:53:48,721 - INFO - 127.0.0.1 - - [25/Oct/2023 22:53:48] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 22:53:48,727 - INFO - 127.0.0.1 - - [25/Oct/2023 22:53:48] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 22:53:48,902 - INFO - 127.0.0.1 - - [25/Oct/2023 22:53:48] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,507 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 22:55:40,536 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,536 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,778 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /images/logo.jpeg HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,778 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /instagram%20(1).png HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,778 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /facebook.png HTTP/1.1[0m" 404 -
+2023-10-25 22:55:40,778 - INFO - 127.0.0.1 - - [25/Oct/2023 22:55:40] "[33mGET /threads.png HTTP/1.1[0m" 404 -
+2023-10-25 23:05:35,348 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666719335&period2=1698255335&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 23:05:35,348 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666719335&period2=1698255335&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 23:05:45,025 - INFO - Dynamic content loaded
+2023-10-25 23:05:45,337 - INFO - Data written to CSV file: HSY1.csv
+2023-10-25 23:05:45,356 - INFO - Data in the CSV file has been inverted.
+2023-10-25 23:05:47,415 - INFO - Web driver closed
+2023-10-25 23:05:51,470 - INFO - 127.0.0.1 - - [25/Oct/2023 23:05:51] "GET /success HTTP/1.1" 200 -
+2023-10-25 23:05:51,492 - INFO - 127.0.0.1 - - [25/Oct/2023 23:05:51] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:05:51,518 - INFO - 127.0.0.1 - - [25/Oct/2023 23:05:51] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:05:51,523 - INFO - 127.0.0.1 - - [25/Oct/2023 23:05:51] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:05:51,598 - INFO - 127.0.0.1 - - [25/Oct/2023 23:05:51] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,181 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 23:06:02,220 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,220 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,470 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /images/logo.jpeg HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,471 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /instagram%20(1).png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,476 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /facebook.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:02,488 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:02] "[33mGET /threads.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,335 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 23:06:32,389 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,390 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,592 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /images/logo.jpeg HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,595 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /instagram%20(1).png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,598 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /facebook.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:32,601 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:32] "[33mGET /threads.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,290 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 23:06:41,340 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,341 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,512 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /images/logo.jpeg HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,515 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /instagram%20(1).png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,518 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /facebook.png HTTP/1.1[0m" 404 -
+2023-10-25 23:06:41,555 - INFO - 127.0.0.1 - - [25/Oct/2023 23:06:41] "[33mGET /threads.png HTTP/1.1[0m" 404 -
+2023-10-25 23:19:32,790 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666720172&period2=1698256172&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 23:19:32,790 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666720172&period2=1698256172&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-25 23:19:40,698 - INFO - Dynamic content loaded
+2023-10-25 23:19:41,287 - INFO - Data written to CSV file: HSY1.csv
+2023-10-25 23:19:41,319 - INFO - Data in the CSV file has been inverted.
+2023-10-25 23:19:43,476 - INFO - Web driver closed
+2023-10-25 23:19:47,562 - INFO - 127.0.0.1 - - [25/Oct/2023 23:19:47] "GET /success HTTP/1.1" 200 -
+2023-10-25 23:19:47,593 - INFO - 127.0.0.1 - - [25/Oct/2023 23:19:47] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:19:47,616 - INFO - 127.0.0.1 - - [25/Oct/2023 23:19:47] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:19:47,623 - INFO - 127.0.0.1 - - [25/Oct/2023 23:19:47] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:19:47,699 - INFO - 127.0.0.1 - - [25/Oct/2023 23:19:47] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:20:20,051 - INFO - 127.0.0.1 - - [25/Oct/2023 23:20:20] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 23:20:20,105 - INFO - 127.0.0.1 - - [25/Oct/2023 23:20:20] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:20:20,108 - INFO - 127.0.0.1 - - [25/Oct/2023 23:20:20] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:20:20,323 - INFO - 127.0.0.1 - - [25/Oct/2023 23:20:20] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:20:20,351 - INFO - 127.0.0.1 - - [25/Oct/2023 23:20:20] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:22:42,215 - INFO - 127.0.0.1 - - [25/Oct/2023 23:22:42] "[33mGET /contact.html HTTP/1.1[0m" 404 -
+2023-10-25 23:24:56,243 - INFO - 127.0.0.1 - - [25/Oct/2023 23:24:56] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-25 23:24:56,309 - INFO - 127.0.0.1 - - [25/Oct/2023 23:24:56] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-25 23:24:56,311 - INFO - 127.0.0.1 - - [25/Oct/2023 23:24:56] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-25 23:24:56,427 - INFO - 127.0.0.1 - - [25/Oct/2023 23:24:56] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-25 23:24:56,431 - INFO - 127.0.0.1 - - [25/Oct/2023 23:24:56] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:07,855 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666723327&period2=1698259327&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:12:07,855 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666723327&period2=1698259327&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:12:23,997 - INFO - Dynamic content loaded
+2023-10-26 00:12:24,623 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 00:12:24,635 - INFO - Data in the CSV file has been inverted.
+2023-10-26 00:12:26,757 - INFO - Web driver closed
+2023-10-26 00:12:30,855 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:30] "GET /success HTTP/1.1" 200 -
+2023-10-26 00:12:30,880 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:30] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:30,902 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:30] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:30,908 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:30] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:30,984 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:30] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:42,225 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:42] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 00:12:42,280 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:42] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:42,285 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:42] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:42,456 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:42] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:12:42,484 - INFO - 127.0.0.1 - - [26/Oct/2023 00:12:42] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:14:07,675 - INFO -  * Detected change in 'd:\\PYthon PRoject\\p1.py', reloading
+2023-10-26 00:17:02,034 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666723622&period2=1698259622&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:17:02,034 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666723622&period2=1698259622&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:17:22,585 - INFO - Dynamic content loaded
+2023-10-26 00:17:23,163 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 00:17:23,184 - INFO - Data in the CSV file has been inverted.
+2023-10-26 00:17:25,300 - INFO - Web driver closed
+2023-10-26 00:17:29,390 - INFO - 127.0.0.1 - - [26/Oct/2023 00:17:29] "GET /success HTTP/1.1" 200 -
+2023-10-26 00:17:29,415 - INFO - 127.0.0.1 - - [26/Oct/2023 00:17:29] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:17:29,437 - INFO - 127.0.0.1 - - [26/Oct/2023 00:17:29] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:17:29,446 - INFO - 127.0.0.1 - - [26/Oct/2023 00:17:29] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:17:29,515 - INFO - 127.0.0.1 - - [26/Oct/2023 00:17:29] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:38,558 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:38] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 00:18:38,584 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:38] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:38,586 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:38] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:38,779 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:38] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:38,795 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:38] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:51,646 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:51] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 00:18:51,695 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:51] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:51,700 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:51] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:51,710 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:51] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:51,916 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:51] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:18:57,775 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:57] "GET / HTTP/1.1" 200 -
+2023-10-26 00:18:57,793 - INFO - 127.0.0.1 - - [26/Oct/2023 00:18:57] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:19:02,779 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:02] "[33mGET /register HTTP/1.1[0m" 404 -
+2023-10-26 00:19:07,066 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:07] "[32mPOST /Login HTTP/1.1[0m" 302 -
+2023-10-26 00:19:08,519 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666723748&period2=1698259748&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:19:08,519 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666723748&period2=1698259748&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:19:15,598 - INFO - Dynamic content loaded
+2023-10-26 00:19:16,113 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 00:19:16,129 - INFO - Data in the CSV file has been inverted.
+2023-10-26 00:19:18,203 - INFO - Web driver closed
+2023-10-26 00:19:22,284 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:22] "GET /success HTTP/1.1" 200 -
+2023-10-26 00:19:22,315 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:22] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:19:22,318 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:22] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:19:22,525 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:22] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:19:22,545 - INFO - 127.0.0.1 - - [26/Oct/2023 00:19:22] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:23:20,954 - INFO -  * Detected change in 'd:\\PYthon PRoject\\p1.py', reloading
+2023-10-26 00:23:46,771 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666724026&period2=1698260026&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:23:46,771 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666724026&period2=1698260026&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:24:05,706 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666724045&period2=1698260045&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:24:05,706 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666724045&period2=1698260045&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:24:36,640 - INFO - Dynamic content loaded
+2023-10-26 00:24:37,505 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 00:24:37,528 - INFO - Data in the CSV file has been inverted.
+2023-10-26 00:24:39,626 - INFO - Web driver closed
+2023-10-26 00:24:43,696 - INFO - 127.0.0.1 - - [26/Oct/2023 00:24:43] "GET /success HTTP/1.1" 200 -
+2023-10-26 00:24:43,722 - INFO - 127.0.0.1 - - [26/Oct/2023 00:24:43] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:24:43,745 - INFO - 127.0.0.1 - - [26/Oct/2023 00:24:43] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:24:43,752 - INFO - 127.0.0.1 - - [26/Oct/2023 00:24:43] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:24:43,819 - INFO - 127.0.0.1 - - [26/Oct/2023 00:24:43] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:25:58,081 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666724158&period2=1698260158&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:25:58,081 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666724158&period2=1698260158&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 00:26:08,105 - INFO - Dynamic content loaded
+2023-10-26 00:26:08,835 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 00:26:08,847 - INFO - Data in the CSV file has been inverted.
+2023-10-26 00:26:10,964 - INFO - Web driver closed
+2023-10-26 00:26:15,097 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:15] "GET /success HTTP/1.1" 200 -
+2023-10-26 00:26:15,125 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:15] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:15,150 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:15] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:15,155 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:15] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:15,224 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:15] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:23,853 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:23] "POST /volhsy HTTP/1.1" 200 -
+2023-10-26 00:26:23,897 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:23] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:23,904 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:23] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:24,086 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:24] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 00:26:24,105 - INFO - 127.0.0.1 - - [26/Oct/2023 00:26:24] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:45:17,570 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666757717&period2=1698293717&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 09:45:17,570 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666757717&period2=1698293717&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 09:45:58,380 - INFO - Dynamic content loaded
+2023-10-26 09:45:58,931 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 09:45:58,959 - INFO - Data in the CSV file has been inverted.
+2023-10-26 09:46:01,064 - INFO - Web driver closed
+2023-10-26 09:46:05,172 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:05] "GET /success HTTP/1.1" 200 -
+2023-10-26 09:46:05,208 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:05] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:05,238 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:05] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:05,239 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:05] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:05,319 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:05] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:13,579 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:13] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 09:46:13,638 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:13] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:13,638 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:13] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:13,851 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:13] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:13,863 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:13] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:18,803 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:18] "POST /volhsy HTTP/1.1" 200 -
+2023-10-26 09:46:18,853 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:18] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:18,857 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:18] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:18,864 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:18] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 09:46:19,015 - INFO - 127.0.0.1 - - [26/Oct/2023 09:46:19] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:49:37,290 - INFO - 127.0.0.1 - - [26/Oct/2023 09:49:37] "[33mGET /contact.html HTTP/1.1[0m" 404 -
+2023-10-26 09:54:08,208 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:08] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 09:54:08,224 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:08] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:08,231 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:08] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:08,239 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:08] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:08,339 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:08] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:34,038 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:34] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 09:54:34,082 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:34] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:34,082 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:34] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:34,082 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:34] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 09:54:34,192 - INFO - 127.0.0.1 - - [26/Oct/2023 09:54:34] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:29,076 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:29] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-26 10:01:29,100 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:29] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:29,102 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:29] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:29,262 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:29] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:29,268 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:29] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:32,823 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:32] "POST /volhsy HTTP/1.1" 200 -
+2023-10-26 10:01:32,845 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:32] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:32,845 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:32] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:32,934 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:32] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 10:01:32,939 - INFO - 127.0.0.1 - - [26/Oct/2023 10:01:32] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 11:16:07,057 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666763167&period2=1698299167&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 11:16:07,058 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666763167&period2=1698299167&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-26 11:16:20,768 - INFO - Dynamic content loaded
+2023-10-26 11:16:21,432 - INFO - Data written to CSV file: HSY1.csv
+2023-10-26 11:16:21,448 - INFO - Data in the CSV file has been inverted.
+2023-10-26 11:16:23,578 - INFO - Web driver closed
+2023-10-26 11:16:27,741 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:27] "GET /success HTTP/1.1" 200 -
+2023-10-26 11:16:27,763 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:27] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 11:16:27,787 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:27] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-26 11:16:27,793 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:27] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-26 11:16:27,867 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:27] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-26 11:16:31,501 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:31] "POST /mail HTTP/1.1" 200 -
+2023-10-26 11:16:31,516 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:31] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2023-10-26 11:16:45,691 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:45] "POST /mailhsy HTTP/1.1" 200 -
+2023-10-26 11:16:45,707 - INFO - 127.0.0.1 - - [26/Oct/2023 11:16:45] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2023-10-27 23:26:40,780 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666893400&period2=1698429400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-27 23:26:40,787 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666893400&period2=1698429400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-27 23:27:07,384 - INFO - Dynamic content loaded
+2023-10-27 23:27:07,625 - INFO - Data written to CSV file: HSY1.csv
+2023-10-27 23:27:07,641 - INFO - Data in the CSV file has been inverted.
+2023-10-27 23:27:09,713 - INFO - Web driver closed
+2023-10-27 23:27:15,412 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:15] "POST /graphhsy HTTP/1.1" 200 -
+2023-10-27 23:27:15,423 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:15] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:15,424 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:15] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:15,433 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:15] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:15,674 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:15] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:31,455 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666893451&period2=1698429451&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-27 23:27:31,455 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666893451&period2=1698429451&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-27 23:27:45,122 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:45] "POST /volhsy HTTP/1.1" 200 -
+2023-10-27 23:27:45,191 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:45] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:45,194 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:45] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:45,194 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:45] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-27 23:27:45,342 - INFO - 127.0.0.1 - - [27/Oct/2023 23:27:45] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-28 23:42:03,751 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1666980723&period2=1698516723&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-28 23:42:03,753 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1666980723&period2=1698516723&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-10-28 23:42:13,748 - INFO - Dynamic content loaded
+2023-10-28 23:42:14,825 - INFO - Data written to CSV file: HSY1.csv
+2023-10-28 23:42:14,841 - INFO - Data in the CSV file has been inverted.
+2023-10-28 23:42:16,954 - INFO - Web driver closed
+2023-10-28 23:42:21,102 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:21] "GET /success HTTP/1.1" 200 -
+2023-10-28 23:42:21,130 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:21] "[33mGET /images/logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-28 23:42:21,157 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:21] "[33mGET /google-play.png HTTP/1.1[0m" 404 -
+2023-10-28 23:42:21,165 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:21] "[33mGET /app-store.png HTTP/1.1[0m" 404 -
+2023-10-28 23:42:21,264 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:21] "[33mGET /logo-removebg-preview.png HTTP/1.1[0m" 404 -
+2023-10-28 23:42:29,116 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:29] "POST /mail HTTP/1.1" 200 -
+2023-10-28 23:42:29,134 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:29] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2023-10-28 23:42:49,105 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:49] "POST /mail HTTP/1.1" 200 -
+2023-10-28 23:42:49,120 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:49] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2023-10-28 23:42:56,472 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:56] "POST /mail HTTP/1.1" 200 -
+2023-10-28 23:42:56,484 - INFO - 127.0.0.1 - - [28/Oct/2023 23:42:56] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2023-10-28 23:43:44,160 - INFO -  * Detected change in 'd:\\PYthon PRoject\\p1.py', reloading
+2023-10-31 20:24:36,719 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-31 20:24:36,720 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-31 20:24:36,721 - INFO -  * Restarting with stat
+2023-10-31 20:24:37,751 - WARNING -  * Debugger is active!
+2023-10-31 20:24:37,759 - INFO -  * Debugger PIN: 124-849-131
+2023-10-31 20:24:55,037 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-31 20:24:55,037 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-31 20:24:55,037 - INFO -  * Restarting with stat
+2023-10-31 20:24:56,095 - WARNING -  * Debugger is active!
+2023-10-31 20:24:56,099 - INFO -  * Debugger PIN: 124-849-131
+2023-10-31 20:25:12,901 - INFO -  * Detected change in 'd:\\PYthon PRoject\\p1.py', reloading
+2023-10-31 20:25:13,017 - INFO -  * Restarting with stat
+2023-10-31 20:25:40,999 - INFO -  * Restarting with stat
+2023-10-31 20:25:52,530 - INFO -  * Restarting with stat
+2023-10-31 20:25:57,272 - INFO -  * Restarting with stat
+2023-11-01 23:32:37,971 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1667325757&period2=1698861757&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:32:37,971 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1667325757&period2=1698861757&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:32:46,667 - INFO - Dynamic content loaded
+2023-11-01 23:32:47,070 - INFO - Data written to CSV file: HSY1.csv
+2023-11-01 23:32:47,082 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:32:49,152 - INFO - Web driver closed
+2023-11-01 23:33:39,906 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1667325819&period2=1698861819&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:33:39,906 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1667325819&period2=1698861819&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:33:44,773 - INFO - Dynamic content loaded
+2023-11-01 23:33:45,166 - INFO - Data written to CSV file: HSY1.csv
+2023-11-01 23:33:45,180 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:33:47,248 - INFO - Web driver closed
+2023-11-01 23:37:06,261 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1667326026&period2=1698862026&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:37:06,261 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1667326026&period2=1698862026&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:37:13,990 - INFO - Dynamic content loaded
+2023-11-01 23:37:14,285 - INFO - Data written to CSV file: HSY1.csv
+2023-11-01 23:37:14,297 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:37:16,367 - INFO - Web driver closed
+2023-11-01 23:40:20,193 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/TSLA/history?period1=1667326220&period2=1698862220&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:40:20,200 - INFO - Opening the URL: https://finance.yahoo.com/quote/TSLA/history?period1=1667326220&period2=1698862220&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:40:33,953 - INFO - Dynamic content loaded
+2023-11-01 23:40:34,232 - INFO - Data written to CSV file: HSY1.csv
+2023-11-01 23:40:34,243 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:40:36,311 - INFO - Web driver closed
+2023-11-01 23:45:54,412 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/JPM/history?period1=1664958115&period2=1696494115&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:45:54,412 - INFO - Opening the URL: https://finance.yahoo.com/quote/JPM/history?period1=1664958115&period2=1696494115&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:46:00,691 - INFO - Dynamic content loaded
+2023-11-01 23:46:00,981 - INFO - Data written to CSV file: JPM1.csv
+2023-11-01 23:46:00,981 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:46:03,051 - INFO - Web driver closed
+2023-11-01 23:46:37,357 - INFO - Generated URL for one year of data: https://finance.yahoo.com/quote/JPM/history?period1=1667326597&period2=1698862597&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:46:37,357 - INFO - Opening the URL: https://finance.yahoo.com/quote/JPM/history?period1=1667326597&period2=1698862597&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+2023-11-01 23:46:44,111 - INFO - Dynamic content loaded
+2023-11-01 23:46:44,421 - INFO - Data written to CSV file: JPM1.csv
+2023-11-01 23:46:44,434 - INFO - Data in the CSV file has been inverted.
+2023-11-01 23:46:46,491 - INFO - Web driver closed
